@@ -643,7 +643,7 @@ FIPStxt,State,County_name,"Metro-nonmetro status, 2013 0=Nonmetro 1=Metro",Econo
 17093,IL,Kendall County,1,0,Nonspecialized,0,0,0,0,0,1,0,0,0,1,0,0
 17095,IL,Knox County,0,0,Nonspecialized,0,0,0,0,0,1,0,0,1,0,0,0
 17097,IL,Lake County,1,0,Nonspecialized,0,0,0,0,0,1,0,0,0,0,0,0
-17099,IL,La Salle County,0,0,Nonspecialized,0,0,0,0,0,1,0,0,0,0,0,0
+17099,IL,LaSalle County,0,0,Nonspecialized,0,0,0,0,0,1,0,0,0,0,0,0
 17101,IL,Lawrence County,0,2,Mining,0,1,0,0,0,0,1,1,0,0,0,0
 17103,IL,Lee County,0,0,Nonspecialized,0,0,0,0,0,1,0,0,0,0,0,0
 17105,IL,Livingston County,0,0,Nonspecialized,0,0,0,0,0,1,0,1,0,0,0,0
@@ -1141,7 +1141,7 @@ FIPStxt,State,County_name,"Metro-nonmetro status, 2013 0=Nonmetro 1=Metro",Econo
 22053,LA,Jefferson Davis Parish,0,0,Nonspecialized,0,0,0,0,0,1,0,1,0,0,0,1
 22055,LA,Lafayette Parish,1,2,Mining,0,1,0,0,0,0,0,0,0,0,0,0
 22057,LA,Lafourche Parish,1,0,Nonspecialized,0,0,0,0,0,1,1,0,0,0,0,0
-22059,LA,La Salle Parish,0,2,Mining,0,1,0,0,0,0,0,1,0,0,0,0
+22059,LA,LaSalle Parish,0,2,Mining,0,1,0,0,0,0,0,1,0,0,0,0
 22061,LA,Lincoln Parish,0,4,Federal/State Government,0,0,0,1,0,0,0,0,0,0,1,1
 22063,LA,Livingston Parish,1,0,Nonspecialized,0,0,0,0,0,1,0,0,0,1,0,0
 22065,LA,Madison Parish,0,0,Nonspecialized,0,0,0,0,0,1,1,1,0,0,1,1
@@ -2416,7 +2416,7 @@ FIPStxt,State,County_name,"Metro-nonmetro status, 2013 0=Nonmetro 1=Metro",Econo
 46107,SD,Potter County,0,1,Farming,1,0,0,0,0,0,0,0,1,0,0,0
 46109,SD,Roberts County,0,1,Farming,1,0,0,0,0,0,0,0,0,0,1,1
 46111,SD,Sanborn County,0,1,Farming,1,0,0,0,0,0,0,0,1,0,0,0
-46113,SD,Shannon County,0,4,Federal/State Government,0,0,0,1,0,0,0,1,0,0,1,1
+46113,SD,Oglala Lakota County,0,4,Federal/State Government,0,0,0,1,0,0,0,1,0,0,1,1
 46115,SD,Spink County,0,1,Farming,1,0,0,1,0,0,0,0,1,0,0,0
 46117,SD,Stanley County,0,0,Nonspecialized,0,0,0,0,0,1,0,0,0,0,0,0
 46119,SD,Sully County,0,1,Farming,1,0,0,0,0,0,0,0,1,0,0,0
